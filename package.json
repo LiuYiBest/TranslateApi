@@ -1,0 +1,12 @@
+{
+  "name": "TranslateApi",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node-dev src/main.ts"
+  },
+  "dependencies": {
+    "commander": "^9.0.0"
+  }
+}
